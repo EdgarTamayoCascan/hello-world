@@ -1,2 +1,2 @@
-# hello-world
-just another repository
+# I'm Edgar Tamayo
+trying to be billionaire
